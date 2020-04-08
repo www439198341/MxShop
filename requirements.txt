@@ -1,0 +1,14 @@
+Django==1.11.29
+django-crispy-forms==1.9.0
+django-filter==1.0.4
+django-formtools==1.0
+django-reversion==3.0.7
+djangorestframework==3.6.3
+future==0.18.2
+httplib2==0.17.1
+Markdown==2.6.8
+mysqlclient==1.4.6
+olefile==0.46
+Pillow==7.1.1
+pytz==2019.3
+six==1.10.0
