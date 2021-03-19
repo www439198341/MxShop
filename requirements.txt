@@ -9,6 +9,6 @@ httplib2==0.17.1
 Markdown==2.6.8
 mysqlclient==1.4.6
 olefile==0.46
-Pillow==7.1.1
+Pillow==8.1.1
 pytz==2019.3
 six==1.10.0
